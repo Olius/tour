@@ -20,11 +20,27 @@ Gens qui viennent
 Il nous faut
 ------------
 
-- medkit (pansement + désinfectant)
-- sparadrap pour pneus
-- sac de couchage
-- tente
-- bouteille
+- [x] sparadrap pour pneus
+- [x] pompe
+- [x] couteau suisse
+- [ ] medkit (pansement + désinfectant)
+- [ ] sac de couchage
+- [ ] tente (optionel)
+- [ ] bouteille
+- [ ] lampes
+- [ ] PQ
+- [ ] brosse à dent
+- [ ] vêtements pour 3 jours + pull + pantalon pour la nuit
+- [ ] ponchos/anti-pluie
+- [ ] maillot de bain
+- [ ] des € pour la france
+- [ ] crème solaire
+
+Avant de partir
+---------------
+
+- gonfler ses pneus
+
 
 Ne pas oubliat
 --------------

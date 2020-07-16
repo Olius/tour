@@ -20,4 +20,15 @@ Gens qui viennent
 Il nous faut
 ------------
 
+- medkit (pansement + désinfectant)
+- sparadrap pour pneus
+- sac de couchage
+- tente
+- bouteille
+
+Ne pas oubliat
+--------------
+
+- faire des courses pour dimanche, ça sera fermé
+
 ###	Mécanique

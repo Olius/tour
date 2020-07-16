@@ -9,8 +9,8 @@ Gens qui viennent
 - [x]	Au.
 - [ ]	Lucie
 - [ ]	Jerem.
-- [ ]	Quentin
-- [ ]	Léo N.
+- [X]	Quentin
+- [X]	Léo N.
 - [ ]	Roberto
 - [ ]	Megan
 - [ ]	Hitler

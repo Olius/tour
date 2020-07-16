@@ -23,13 +23,14 @@ Gens qui viennent pas
 Il nous faut
 ------------
 
+### Vélo
 - [ ] VELOOOOOOO
 - [x] sparadrap pour pneus
 - [x] pompe 
 - [ ] outils pour la mécanique
 - [ ] tendeurs
 
-
+### Survie
 - [x] couteau suisse
 - [ ] Réchauf (à récupérer à Monnetier)
 - [ ] medkit (pansement + désinfectant)
@@ -39,20 +40,24 @@ Il nous faut
 - [ ] batterie portable
 - [ ] crème solaire
 
-
+### Dodo
 - [ ] sac de couchage
 - [ ] tente (optionel)
 
+### Pas puer
 - [ ] PQ
 - [ ] Savon
 - [ ] brosse à dents / à cheveux
+- [ ] déo
 
+### Habits
 - [ ] vêtements pour 3 jours (pas oublier des sous-vêtements)
 - [ ] (pyjama)
 - [ ] Pull + pantalon pour la nuit
 - [ ] ponchos/anti-pluie
 - [ ] maillot de bain
 
+### Money money money must be funny in a rich man's world
 - [ ] des € pour la france
 
 Avant de partir

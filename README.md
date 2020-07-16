@@ -29,6 +29,7 @@ Il nous faut
 - [ ] outils pour la mécanique
 - [ ] tendeurs
 
+
 - [x] couteau suisse
 - [ ] Réchauf (à récupérer à Monnetier)
 - [ ] medkit (pansement + désinfectant)
@@ -37,6 +38,7 @@ Il nous faut
 - [ ] lampes/ lampes de vélo (CHARGEES)
 - [ ] batterie portable
 - [ ] crème solaire
+
 
 - [ ] sac de couchage
 - [ ] tente (optionel)

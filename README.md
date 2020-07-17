@@ -24,7 +24,8 @@ Il nous faut
 ------------
 
 ### Pour être légal
-- [ ] Carte d'identité
+- Carte d'identité
+- **Masques !**
 
 ### Vélo
 - [ ] VELOOOOOOO

@@ -30,9 +30,9 @@ Il nous faut
 - [ ] VELOOOOOOO
 - [x] sparadrap pour pneus (Laurent)
 - [x] truc pour enlever pneus (Laurent)
-- [x] pompe (Ausra ou Louis ?)
-- [ ] outils pour la mécanique
-- [ ] tendeurs
+- [x] pompe (Ausra ou Louis ? Les deux !)
+- [x] outils pour la mécanique
+- [x] tendeurs, au moins deux (Louis & Ausra) + un filet (Louis) + un panier (Louis)
 - [x] chiffons (Laurent)
 
 ### Survie
@@ -40,11 +40,11 @@ Il nous faut
 - [ ] Réchauf (à récupérer à Monnetier)
 - [x] medkit (pansement + désinfectant) (Laurent et Ausra)
 - [ ] bouteille (EAUUUUU ou VOKDA au choix)
-- [ ] lampes/ lampes de vélo (CHARGEES)
+- [ ] lampes / lampes de vélo (CHARGEES)
 - [ ] batterie portable
-- [ ] crème solaire 
-- [ ] poubelle
-- [ ] briquet
+- [x] crème solaire (Louis)
+- [x] poubelle (Louis)
+- [x] briquet (Louis)
 
 ### Survie digestive 
 - [ ] couverts (cuillère min)
@@ -59,7 +59,7 @@ Il nous faut
 ### Dodo
 - [ ] sac de couchage
 - [x] matelas de merde mais léger (Laurent)
-- [ ] tente (optionel)
+- [x] tente (Louis)
 
 ### Pas puer
 - [x] PQ (Laurent)

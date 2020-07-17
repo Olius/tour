@@ -23,22 +23,38 @@ Gens qui viennent pas
 Il nous faut
 ------------
 
+### Pour être légal
+- [ ] Carte d'identité
+
 ### Vélo
 - [ ] VELOOOOOOO
 - [x] sparadrap pour pneus
+- [ ] truc pour enlever pneus
 - [x] pompe 
 - [ ] outils pour la mécanique
 - [ ] tendeurs
+- [ ] chiffons
 
 ### Survie
 - [x] couteau suisse
 - [ ] Réchauf (à récupérer à Monnetier)
 - [ ] medkit (pansement + désinfectant)
-- [ ] bouteille
-- [ ] snack
+- [ ] bouteille (EAUUUUU ou VOKDA au choix)
 - [ ] lampes/ lampes de vélo (CHARGEES)
 - [ ] batterie portable
 - [ ] crème solaire
+- [ ] poubelle
+- [ ] briquet
+
+### Survie digestive 
+- [ ] couverts (cuillère min)
+- [ ] bols-ish 
+- [ ] mashmallows 
+- [ ] snack (fruits secs, barres de ceriales, carottes)
+- [ ] oatsmeals
+- [ ] confiture du frigo de la section
+- [ ] oeufs cuits 
+- [ ]
 
 ### Dodo
 - [ ] sac de couchage

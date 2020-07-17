@@ -9,8 +9,6 @@ Gens qui viennent
 - [x]	Au.
 - [x]	Quentin
 - [x]	Léo N.
-- [ ]	Megan
-- [ ]	Hitler
 - [ ]	Thomas
 
 
@@ -19,6 +17,8 @@ Gens qui viennent pas
 - [x]	Roberto
 - [x]	Lucie
 - [x]	Jerem.
+- [x]	Megan
+- [x]	Hitler
 
 Il nous faut
 ------------

@@ -28,21 +28,21 @@ Il nous faut
 
 ### Vélo
 - [ ] VELOOOOOOO
-- [x] sparadrap pour pneus
-- [ ] truc pour enlever pneus
-- [x] pompe 
+- [x] sparadrap pour pneus (Laurent)
+- [x] truc pour enlever pneus (Laurent)
+- [x] pompe (Ausra ou Louis ?)
 - [ ] outils pour la mécanique
 - [ ] tendeurs
-- [ ] chiffons
+- [x] chiffons (Laurent)
 
 ### Survie
-- [x] couteau suisse
+- [x] couteau suisse (Ausra)
 - [ ] Réchauf (à récupérer à Monnetier)
-- [ ] medkit (pansement + désinfectant)
+- [x] medkit (pansement + désinfectant) (Laurent et Ausra)
 - [ ] bouteille (EAUUUUU ou VOKDA au choix)
 - [ ] lampes/ lampes de vélo (CHARGEES)
 - [ ] batterie portable
-- [ ] crème solaire
+- [ ] crème solaire 
 - [ ] poubelle
 - [ ] briquet
 
@@ -54,14 +54,15 @@ Il nous faut
 - [ ] oatsmeals
 - [ ] confiture du frigo de la section
 - [ ] oeufs cuits 
-- [ ]
+- [ ] sel, poivre 
 
 ### Dodo
 - [ ] sac de couchage
+- [x] matelas de merde mais léger (Laurent)
 - [ ] tente (optionel)
 
 ### Pas puer
-- [ ] PQ
+- [x] PQ (Laurent)
 - [ ] Savon
 - [ ] brosse à dents / à cheveux
 - [ ] déo

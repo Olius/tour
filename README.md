@@ -46,6 +46,7 @@ Il nous faut
 - [x] crème solaire (Louis)
 - [x] poubelle (Louis)
 - [x] briquet (Louis)
+- [ ] lunettes de soleil
 
 ### Survie digestive 
 - [ ] couverts (cuillère min)
